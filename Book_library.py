@@ -479,6 +479,606 @@ library_data = {
         "author": "Maurice Sendak",
         "date_published": "1963",
         "category": "Children's Picture Book"
+    },
+    {
+        "name": "The Giver",
+        "author": "Lois Lowry",
+        "date_published": "1993",
+        "category": "Dystopian, Young Adult"
+    },
+    {
+        "name": "The Road",
+        "author": "Cormac McCarthy",
+        "date_published": "2006",
+        "category": "Post-apocalyptic, Literary Fiction"
+    },
+    {
+        "name": "No Country for Old Men",
+        "author": "Cormac McCarthy",
+        "date_published": "2005",
+        "category": "Neo-Western, Thriller"
+    },
+    {
+        "name": "Of Human Bondage",
+        "author": "W. Somerset Maugham",
+        "date_published": "1915",
+        "category": "Semi-autobiographical, Bildungsroman"
+    },
+    {
+        "name": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "date_published": "1926",
+        "category": "Modernist, Lost Generation"
+    },
+    {
+        "name": "For Whom the Bell Tolls",
+        "author": "Ernest Hemingway",
+        "date_published": "1940",
+        "category": "War Fiction, Literary Classic"
+    },
+    {
+        "name": "Invisible Man",
+        "author": "Ralph Ellison",
+        "date_published": "1952",
+        "category": "African American Literature, Modernist"
+    },
+    {
+        "name": "Native Son",
+        "author": "Richard Wright",
+        "date_published": "1940",
+        "category": "African American Literature, Social Realism"
+    },
+    {
+        "name": "A Streetcar Named Desire",
+        "author": "Tennessee Williams",
+        "date_published": "1947",
+        "category": "Play, Southern Gothic"
+    },
+    {
+        "name": "The Glass Menagerie",
+        "author": "Tennessee Williams",
+        "date_published": "1944",
+        "category": "Play, Memory Play"
+    },
+    {
+        "name": "The Color Purple",
+        "author": "Alice Walker",
+        "date_published": "1982",
+        "category": "Epistolary Novel, Historical Fiction"
+    },
+    {
+        "name": "Catching Fire",
+        "author": "Suzanne Collins",
+        "date_published": "2009",
+        "category": "Young Adult, Dystopian"
+    },
+    {
+        "name": "Mockingjay",
+        "author": "Suzanne Collins",
+        "date_published": "2010",
+        "category": "Young Adult, Dystopian"
+    },
+    {
+        "name": "The Martian",
+        "author": "Andy Weir",
+        "date_published": "2011",
+        "category": "Science Fiction, Adventure"
+    },
+    {
+        "name": "Project Hail Mary",
+        "author": "Andy Weir",
+        "date_published": "2021",
+        "category": "Science Fiction, Adventure"
+    },
+    {
+        "name": "Ready Player One",
+        "author": "Ernest Cline",
+        "date_published": "2011",
+        "category": "Science Fiction, Dystopian"
+    },
+    {
+        "name": "Snow Crash",
+        "author": "Neal Stephenson",
+        "date_published": "1992",
+        "category": "Cyberpunk, Science Fiction"
+    },
+    {
+        "name": "The Hitchhiker's Guide to the Galaxy (series)",
+        "author": "Douglas Adams",
+        "date_published": "1979",
+        "category": "Science Fiction, Comedy"
+    },
+    {
+        "name": "Good Omens",
+        "author": "Terry Pratchett & Neil Gaiman",
+        "date_published": "1990",
+        "category": "Fantasy, Comedy"
+    },
+    {
+        "name": "Discworld: Mort",
+        "author": "Terry Pratchett",
+        "date_published": "1987",
+        "category": "Fantasy, Satire"
+    },
+    {
+        "name": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "date_published": "2007",
+        "category": "Fantasy"
+    },
+    {
+        "name": "Mistborn: The Final Empire",
+        "author": "Brandon Sanderson",
+        "date_published": "2006",
+        "category": "Fantasy"
+    },
+    {
+        "name": "Jonathan Strange & Mr Norrell",
+        "author": "Susanna Clarke",
+        "date_published": "2004",
+        "category": "Fantasy, Historical"
+    },
+    {
+        "name": "The Ocean at the End of the Lane",
+        "author": "Neil Gaiman",
+        "date_published": "2013",
+        "category": "Dark Fantasy, Modern Literature"
+    },
+    {
+        "name": "The Secret History",
+        "author": "Donna Tartt",
+        "date_published": "1992",
+        "category": "Literary Fiction, Dark Academia"
+    },
+    {
+        "name": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "date_published": "2015",
+        "category": "Contemporary Fiction, Literary Fiction"
+    },
+    {
+        "name": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "date_published": "2018",
+        "category": "Mystery, Literary Fiction"
+    },
+    {
+        "name": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "date_published": "2019",
+        "category": "Psychological Thriller, Mystery"
+    },
+    {
+        "name": "The Guest List",
+        "author": "Lucy Fokley",
+        "date_published": "2020",
+        "category": "Mystery, Thriller"
+    },
+    {
+        "name": "The Woman in Cabin 10",
+        "author": "Ruth Ware",
+        "date_published": "2016",
+        "category": "Mystery, Thriller"
+    },
+    {
+        "name": "Rebecca",
+        "author": "Daphne du Maurier",
+        "date_published": "1938",
+        "category": "Gothic Romance, Psychological Thriller"
+    },
+    {
+        "name": "Bird Box",
+        "author": "Josh Malerman",
+        "date_published": "2014",
+        "category": "Post-apocalyptic, Horror"
+    },
+    {
+        "name": "The Exorcist",
+        "author": "William Peter Blatty",
+        "date_published": "1971",
+        "category": "Horror"
+    },
+    {
+        "name": "Rosemary's Baby",
+        "author": "Ira Levin",
+        "date_published": "1967",
+        "category": "Horror, Psychological Thriller"
+    },
+    {
+        "name": "American Psycho",
+        "author": "Bret Easton Ellis",
+        "date_published": "1991",
+        "category": "Satirical Fiction, Horror"
+    },
+    {
+        "name": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "date_published": "2003",
+        "category": "Historical Fiction, Literary Fiction"
+    },
+    {
+        "name": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "date_published": "2007",
+        "category": "Historical Fiction, Literary Fiction"
+    },
+    {
+        "name": "The Book Thief",
+        "author": "Markus Zusak",
+        "date_published": "2005",
+        "category": "Historical Fiction, Young Adult"
+    },
+    {
+        "name": "All the Light We Cannot See",
+        "author": "Anthony Doerr",
+        "date_published": "2014",
+        "category": "Historical Fiction, War"
+    },
+    {
+        "name": "The Nightingale",
+        "author": "Kristin Hannah",
+        "date_published": "2015",
+        "category": "Historical Fiction, War"
+    },
+    {
+        "name": "When Breath Becomes Air",
+        "author": "Paul Kalanithi",
+        "date_published": "2016",
+        "category": "Memoir, Non-Fiction"
+    },
+    {
+        "name": "Into Thin Air",
+        "author": "Jon Krakauer",
+        "date_published": "1997",
+        "category": "Non-Fiction, Adventure"
+    },
+    {
+        "name": "Outliers",
+        "author": "Malcolm Gladwell",
+        "date_published": "2008",
+        "category": "Non-Fiction, Sociology"
+    },
+    {
+        "name": "Freakonomics",
+        "author": "Steven D. Levitt & Stephen J. Dubner",
+        "date_published": "2005",
+        "category": "Non-Fiction, Economics"
+    },
+    {
+        "name": "The Art of War",
+        "author": "Sun Tzu",
+        "date_published": "c. 5th Century BCE",
+        "category": "Non-Fiction, Philosophy"
+    },
+    {
+        "name": "Meditations",
+        "author": "Marcus Aurelius",
+        "date_published": "c. 161-180 CE",
+        "category": "Philosophy, Stoicism"
+    },
+    {
+        "name": "The Prince",
+        "author": "Niccolò Machiavelli",
+        "date_published": "1532",
+        "category": "Political Philosophy, Non-Fiction"
+    },
+    {
+        "name": "Candide",
+        "author": "Voltaire",
+        "date_published": "1759",
+        "category": "Satire, Philosophical Fiction"
+    },
+    {
+        "name": "The Republic",
+        "author": "Plato",
+        "date_published": "c. 380 BCE",
+        "category": "Philosophy, Political Theory"
+    },
+    {
+        "name": "Paradise Lost",
+        "author": "John Milton",
+        "date_published": "1667",
+        "category": "Epic Poem, Religious Allegory"
+    },
+    {
+        "name": "Brave New World Revisited",
+        "author": "Aldous Huxley",
+        "date_published": "1958",
+        "category": "Non-Fiction, Social Commentary"
+    },
+    {
+        "name": "The Hitchhiker's Guide to the Galaxy (novel)",
+        "author": "Douglas Adams",
+        "date_published": "1979",
+        "category": "Science Fiction, Comedy"
+    },
+    {
+        "name": "Catch-22",
+        "author": "Joseph Heller",
+        "date_published": "1961",
+        "category": "Satirical Fiction, War"
+    },
+    {
+        "name": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "date_published": "1890",
+        "category": "Gothic Fiction, Philosophical"
+    },
+    {
+        "name": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "date_published": "1877",
+        "category": "Realist Fiction, Classic"
+    },
+    {
+        "name": "Dracula",
+        "author": "Bram Stoker",
+        "date_published": "1897",
+        "category": "Gothic Horror, Classic"
+    },
+    {
+        "name": "Frankenstein",
+        "author": "Mary Shelley",
+        "date_published": "1818",
+        "category": "Gothic Fiction, Science Fiction"
+    },
+    {
+        "name": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "date_published": "1847",
+        "category": "Gothic Romance, Classic"
+    },
+    {
+        "name": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "date_published": "1847",
+        "category": "Gothic Romance, Classic"
+    },
+    {
+        "name": "Little Women",
+        "author": "Louisa May Alcott",
+        "date_published": "1868",
+        "category": "Classic Fiction, Coming-of-age"
+    },
+    {
+        "name": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "date_published": "1884",
+        "category": "Adventure, Classic American"
+    },
+    {
+        "name": "Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "date_published": "1876",
+        "category": "Adventure, Children's Classic"
+    },
+    {
+        "name": "Gulliver's Travels",
+        "author": "Jonathan Swift",
+        "date_published": "1726",
+        "category": "Satire, Fantasy"
+    },
+    {
+        "name": "Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "date_published": "1719",
+        "category": "Adventure, Classic"
+    },
+    {
+        "name": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "date_published": "1844",
+        "category": "Adventure, Historical Fiction"
+    },
+    {
+        "name": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "date_published": "1844",
+        "category": "Adventure, Historical Fiction"
+    },
+    {
+        "name": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "date_published": "1939",
+        "category": "Social Realism, American Classic"
+    },
+    {
+        "name": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "date_published": "1937",
+        "category": "Novella, Social Realism"
+    },
+    {
+        "name": "East of Eden",
+        "author": "John Steinbeck",
+        "date_published": "1952",
+        "category": "Literary Fiction, Epic Saga"
+    },
+    {
+        "name": "Lolita",
+        "author": "Vladimir Nabokov",
+        "date_published": "1955",
+        "category": "Literary Fiction, Controversial"
+    },
+    {
+        "name": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "date_published": "1962",
+        "category": "Dystopian, Satirical"
+    },
+    {
+        "name": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "date_published": "1985",
+        "category": "Dystopian, Speculative Fiction"
+    },
+    {
+        "name": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "date_published": "1969",
+        "category": "Satirical Fiction, Anti-War"
+    },
+    {
+        "name": "Cat's Cradle",
+        "author": "Kurt Vonnegut",
+        "date_published": "1963",
+        "category": "Satirical Fiction, Postmodern"
+    },
+    {
+        "name": "Dune Messiah",
+        "author": "Frank Herbert",
+        "date_published": "1969",
+        "category": "Science Fiction"
+    },
+    {
+        "name": "Children of Dune",
+        "author": "Frank Herbert",
+        "date_published": "1976",
+        "category": "Science Fiction"
+    },
+    {
+        "name": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "date_published": "1968",
+        "category": "Science Fiction, Cyberpunk"
+    },
+    {
+        "name": "Ubik",
+        "author": "Philip K. Dick",
+        "date_published": "1969",
+        "category": "Science Fiction, Philosophical"
+    },
+    {
+        "name": "The Left Hand of Darkness",
+        "author": "Ursula K. Le Guin",
+        "date_published": "1969",
+        "category": "Science Fiction, Feminist Literature"
+    },
+    {
+        "name": "The Dispossessed",
+        "author": "Ursula K. Le Guin",
+        "date_published": "1974",
+        "category": "Science Fiction, Anarchist Fiction"
+    },
+    {
+        "name": "American Gods",
+        "author": "Neil Gaiman",
+        "date_published": "2001",
+        "category": "Fantasy, Urban Fantasy"
+    },
+    {
+        "name": "Stardust",
+        "author": "Neil Gaiman",
+        "date_published": "1999",
+        "category": "Fantasy, Fairy Tale"
+    },
+    {
+        "name": "Good Omens",
+        "author": "Terry Pratchett & Neil Gaiman",
+        "date_published": "1990",
+        "category": "Fantasy, Comedy"
+    },
+    {
+        "name": "Guards! Guards!",
+        "author": "Terry Pratchett",
+        "date_published": "1989",
+        "category": "Fantasy, Satire"
+    },
+    {
+        "name": "The Golden Compass (Northern Lights)",
+        "author": "Philip Pullman",
+        "date_published": "1995",
+        "category": "Fantasy, Young Adult"
+    },
+    {
+        "name": "His Dark Materials: The Subtle Knife",
+        "author": "Philip Pullman",
+        "date_published": "1997",
+        "category": "Fantasy, Young Adult"
+    },
+    {
+        "name": "His Dark Materials: The Amber Spyglass",
+        "author": "Philip Pullman",
+        "date_published": "2000",
+        "category": "Fantasy, Young Adult"
+    },
+    {
+        "name": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "date_published": "1999",
+        "category": "Young Adult, Epistolary"
+    },
+    {
+        "name": "The Fault in Our Stars",
+        "author": "John Green",
+        "date_published": "2012",
+        "category": "Young Adult, Romance"
+    },
+    {
+        "name": "Looking for Alaska",
+        "author": "John Green",
+        "date_published": "2005",
+        "category": "Young Adult, Coming-of-age"
+    },
+    {
+        "name": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "date_published": "1911",
+        "category": "Children's Classic, Mystery"
+    },
+    {
+        "name": "A Wrinkle in Time",
+        "author": "Madeleine L'Engle",
+        "date_published": "1962",
+        "category": "Children's Science Fiction, Fantasy"
+    },
+    {
+        "name": "The Hobbit, or There and Back Again",
+        "author": "J.R.R. Tolkien",
+        "date_published": "1937",
+        "category": "Fantasy, Children's Literature"
+    },
+    {
+        "name": "Watership Down",
+        "author": "Richard Adams",
+        "date_published": "1972",
+        "category": "Adventure, Allegory"
+    },
+    {
+        "name": "Jonathan Livingston Seagull",
+        "author": "Richard Bach",
+        "date_published": "1970",
+        "category": "Novella, Allegory"
+    },
+    {
+        "name": "The Art of War",
+        "author": "Sun Tzu",
+        "date_published": "c. 5th Century BCE",
+        "category": "Non-Fiction, Philosophy"
+    },
+    {
+        "name": "Meditations",
+        "author": "Marcus Aurelius",
+        "date_published": "c. 161-180 CE",
+        "category": "Philosophy, Stoicism"
+    },
+    {
+        "name": "The Republic",
+        "author": "Plato",
+        "date_published": "c. 380 BCE",
+        "category": "Philosophy, Political Theory"
+    },
+    {
+        "name": "On the Origin of Species",
+        "author": "Charles Darwin",
+        "date_published": "1859",
+        "category": "Non-Fiction, Science"
+    },
+    {
+        "name": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "date_published": "1988",
+        "category": "Popular Science, Cosmology"
     }
     ]
 }
