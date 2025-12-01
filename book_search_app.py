@@ -63,12 +63,15 @@ class MainWindow(QMainWindow):
 
         self.ui.status_label.setText("Enter a search term and click 'Search'")
 
+        self.display_results(self.all_books)  # Show all books at startup
+
     def perform_search(self):
         search_term = self.ui.search_input.text().strip()
         self.ui.results_table.setRowCount(0) # Clear previous results
 
         if not search_term:
-            self.ui.status_label.setText("Please enter a search term.")
+            self.ui.status_label.setText("Showing all books.")
+            self.display_results(self.all_books)
             return
 
         results = search_books(self.all_books, search_term)
@@ -78,6 +81,7 @@ class MainWindow(QMainWindow):
             self.display_results(results)
         else:
             self.ui.status_label.setText(f"No books found matching '{search_term}'.")
+            self.ui.results_table.setRowCount(0)
 
     def display_results(self, results):
         self.ui.results_table.setRowCount(len(results))
