@@ -1,4 +1,4 @@
-{
+library_data = {
     "media" : [
     {
         "name": "To Kill a Mockingbird",
@@ -180,5 +180,5 @@
         "date_published": "1988",
         "category": "Allegorical Fiction"
     }
-]
+    ]
 }
