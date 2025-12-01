@@ -20,7 +20,7 @@
       <item>
        <widget class="QLineEdit" name="search_input">
         <property name="placeholderText">
-         <string>Enter search term (e.g., "Tolkien", "1954", "Dystopian")</string>
+         <string>Enter search term (e.g. "Author", "Category", "Year Published", "Name")</string>
         </property>
        </widget>
       </item>
