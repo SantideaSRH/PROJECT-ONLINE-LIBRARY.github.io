@@ -58,7 +58,7 @@ class MainWindow(QMainWindow):
         self.ui.results_table.setHorizontalHeaderLabels(["Name", "Author", "Date Published", "Category"])
         self.ui.results_table.setColumnWidth(0, 200) # Name
         self.ui.results_table.setColumnWidth(1, 150) # Author
-        self.ui.results_table.setColumnWidth(2, 100) # Date Published
+        self.ui.results_table.setColumnWidth(2, 150) # Date Published
         # The last column will stretch due to horizontalHeaderStretchLastSection=true
 
         self.ui.status_label.setText("Enter a search term and click 'Search'")
